@@ -15,7 +15,7 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
 </p>
 
 ---
