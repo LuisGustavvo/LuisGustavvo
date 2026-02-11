@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Luis Gustavo Pires Marcolino</h1>
+<h1 align="center">Olá, Me chamo Luis Gustavo Pires Marcolino</h1>
 <h3 align="center">Desenvolvedor em evolução 🚀</h3>
 
 ---
