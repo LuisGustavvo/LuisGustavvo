@@ -15,7 +15,7 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,java)](https://skillicons.dev)" />
 </p>
 
 ---
@@ -30,3 +30,4 @@
 
 - Email: luisgustavopiresmarcolino@gmail.com
 - LinkedIn: https://www.linkedin.com/in/luis-gustavo-pires-marcolino-0bbb1129b/
+
