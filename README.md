@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Luis Gustavo Pires Marcolino</h1>
+<h3 align="center">Desenvolvedor em evolução 🚀</h3>
 
-<!--
-**LuisGustavvo/LuisGustavvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Atualmente trabalhando como **AOE - Agente Escolar**
+- 🌱 Estudando **JavaScript, Python, Java**
+- 🎯 Focado em crescer na área de tecnologia
+- 📍 Brasil
+
+---
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+---
+
+### 📫 Contato
+
+- Email: luisgustavopiresmarcolino@gmail.com
+- LinkedIn: https://www.linkedin.com/in/luis-gustavo-pires-marcolino-0bbb1129b/
