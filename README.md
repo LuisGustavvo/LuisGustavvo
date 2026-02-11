@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Me chamo Luis Gustavo Pires Marcolino</h1>
-<h3 align="center">Desenvolvedor em evolução 🚀</h3>
+<h3 align="center">Iniciando Carreira em TI | Estudante de Análise e Desenvolvimento de Sistemas 🚀</h3>
 
 ---
 
