@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,py,java)](https://skillicons.dev)" />
